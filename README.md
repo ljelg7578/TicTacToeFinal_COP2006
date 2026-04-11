@@ -1,5 +1,3 @@
-# Welcome Page
+# Welcome Page 
 
-### Releases: 
-
-### Code: 
+### Badges: 
